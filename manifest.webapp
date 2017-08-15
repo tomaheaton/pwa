@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "name": "Tom's PWA",
+  "launch_path": "/index.html",
+  "description": "Tom's PWA",
+  "icons": {
+    "144": "/images/touch/android-icon-144x144.png"
+  },
+  "developer": {
+    "name": "Tom Heaton",
+    "url": "http://tomaheaton.co.uk"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "start_url": "/?homescreen=1",
+  "locales": {
+    "en": {
+      "name": "Tom's PWA",
+      "description": "Tom's PWA"
+    }
+  }
+}
